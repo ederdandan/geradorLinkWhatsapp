@@ -1,0 +1,36 @@
+geradorLink/*.swp
+geradorLink/*.*~
+geradorLink/project.lock.json
+geradorLink/.DS_Store
+geradorLink/*.pyc
+geradorLink/nupkg/
+
+# Visual Studio Code
+geradorLink/.vscode
+
+# Rider
+geradorLink/.idea
+
+# User-specific files
+geradorLink/*.suo
+geradorLink/*.user
+geradorLink/*.userosscache
+geradorLink/*.sln.docstates
+
+# Build results
+geradorLink/[Dd]ebug/
+geradorLink/[Dd]ebugPublic/
+geradorLink/[Rr]elease/
+geradorLink/[Rr]eleases/
+geradorLink/x64/
+geradorLink/x86/
+geradorLink/build/
+geradorLink/bld/
+geradorLink/[Bb]in/
+geradorLink/[Oo]bj/
+geradorLink/[Oo]ut/
+geradorLink/msbuild.log
+geradorLink/msbuild.err
+geradorLink/msbuild.wrn
+
+.vs
